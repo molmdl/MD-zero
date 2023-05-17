@@ -31,18 +31,18 @@ For details and related references of different projects, please refer to the RE
 ---
 ## Other tools that can be useful for educational purposes 
 Here is a list of software have the potential in future educational projects. They are lacking some important features which forced me to stay with other programs for now, but I look forward to their future development.
-1. <a href="https://fold.it">Foldit</a> and <a href="">FolditStandalone</a>
+1. <a href="https://fold.it">Foldit</a> and <a href="https://fold.it/dist/external/standalone/quickstart.html">FolditStandalone</a>
     - <b>Advantage:</b> Foldit is a video game of protein modelling, protein design, and small-molecule design that use ROSETTA as the backend. It is a molecular modelling softare but not a MD softare. It has comprehensive biochemistry tutorial and provides game-like hands-on experience on molecular modelling.
     - <b>Disadvantage:</b> Foldit/FolditStandalone only has limited support for non-protein. Setting up custom puzzle is also tricky.
 2. <a href="https://www.cgl.ucsf.edu/chimerax/">UCSF ChimeraX</a> 
     - <b>Advantage:</b> Allows interactive MD simulation within the GUI.
 	- <b>Disadvantage:</b> Limited forcefield parameters, currently only for protein with standard amino acids and an addition set of small-molecules. Requires a recent version of OpenGL and not available on CentOS7 server.
-3. <a href="http://www.ks.uiuc.edu/Research/qwikmd/">QwikMD</a> GUI of <a href="http://www.ks.uiuc.edu/Research/namd/">NAMD</a> in <a href="www.ks.uiuc.edu/Research/vmd/">VMD</a> 
+3. <a href="http://www.ks.uiuc.edu/Research/qwikmd/">QwikMD GUI</a> of <a href="http://www.ks.uiuc.edu/Research/namd/">NAMD</a> in <a href="https://www.ks.uiuc.edu/Research/vmd/">VMD</a> 
     - <b>Advantage:</b> As the native GUI of NAMD, provides a GUI for MD setup, real-time monitoring and optionally interactive MD.
 	- <b>Disadvantage:</b> GUI not very attractive for novice users. It can be tricky to setup the interface, and the real-time simulation can be slow/freezing during the one (depends on hardware).
 4. <a href="https://pymolwiki.org/index.php/GROMACS_Plugin">Dynamics plugin for PyMOL</a> 
     - <b>Advantage:</b> This is a PyMOL plugin that provides a GUI to configure and analysis GROMACS simulations within PyMOL.
 	- <b>Disadvantage:</b> Limited options for simulation, especially in the choice of forcefield.
-5. <a href="https://galaxyproject.org/">Galaxy</a> Platform
+5. <a href="https://galaxyproject.org/">Galaxy Platform</a>
     - <b>Advantage:</b> A web server for life-science research including molecular modelling. Provides an exhaustive collection of tools and workflow on cloud with user-friendly GUI, no installation is needed.
 	- <b>Disadvantage:</b> Limited options implemented in the GUI.
