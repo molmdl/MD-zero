@@ -1,6 +1,6 @@
-# Animation to demonstrate 
+# Animation to demonstrate the importance of literature review and preprocessing the PDB file before MD or docking 
 
-Human cyclic nucleotide phosphodiesterases are complicated metalloenzyme. Good for introducing important points when modelling biomarcomolecules.
+Human cyclic nucleotide phosphodiesterases are complicated metalloenzyme. Good for introducing important points to review literature and pre-process PDB files when modelling biomarcomolecules.
 
 Original version.
 Video had no sound. Rendered in UCSF Chimera. 
