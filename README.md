@@ -14,7 +14,7 @@ Collection of educational materials and project files prepared for my teaching d
 A 64-bit Windows-only "portable" package of <a href="https://github.com/molmdl/MD-zero/releases/tag/MDportable_2021.09.30">CPU Gromacs binary (Version 2019.6) bundled with several analysis tools</a> can be found in <a href="https://github.com/molmdl/MD-zero/releases/">"Releases"</a> for easy installation and usage. 
 <b>However, I DO NOT own the copyright of Gromacs, QTGrace and Jmol; NOR do I own copyright of the documents included in the "doc" directory in the package. Please refer to the corresponding license file for the infomration.</b>
 
-For a more updated or GPU-accelerated version of GROMACS binary on Windows, please refer to other sources, e.g. https://github.com/makoto-yoneya/gromacs-MSVC/releases/tag/2023win64cuda and https://github.com/shoubhikraj/gromacs-windows/releases , or compile it yourself for optimized performance.
+For a more updated or GPU-accelerated version of GROMACS binary on Windows, please refer to other sources, e.g. from <a href="https://github.com/search?q=gromacs+windows&type=repositories"> these repositories</a> or compile it yourself for optimized performance.
 
 Part of the materials aimed to provide students with a brief experience of what is molecular modelling and MD, which is not recommended for actually learning the technique. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
 
