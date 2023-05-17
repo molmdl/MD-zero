@@ -2,7 +2,7 @@
 
 Since the project is related to a part of the unpublished work of our group,  not all the files of the hands-on exercise would be included here.
 
-Only modified scripts and tutorial notes that use other Biomolecular systems is provided here.
+Only modified scripts and tutorial notes that use other biomolecular systems wouldbe provided here.
 
 This is a one-semester (6 months) individual project. The project includes 
 - literature review, 
