@@ -1,5 +1,5 @@
 # MD-zero
-A collection of educational materials and project files being prepared for my teaching duties since I have started learning to do molecular modelling, in particular molecular dynamics (MD) simulation. Includes a precompiled version of CPU Gromacs binary for Windows computers. 
+Collection of educational materials and project files being prepared for my teaching duties since I have started learning to do molecular modelling, in particular molecular dynamics (MD) simulation. Includes a precompiled version of CPU Gromacs binary for Windows computers. 
 
 Part of the materials aimed to provide students with a brief experience of what is molecular modelling and MD, which is not recommended for actually learning the technique. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
 
