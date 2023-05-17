@@ -1,7 +1,7 @@
 # MD-zero
 Collection of educational materials and project files being prepared for my teaching duties since I have started learning to do molecular modelling, in particular molecular dynamics (MD) simulation. 
 
-Includes a Windows-only protable package of <a href="https://github.com/molmdl/MD-zero/releases/tag/MDportable_2021.09.30">CPU Gromacs binary (Version 2019.6) packed with several analysis tools</a>. 
+Includes a Windows-only "portable" package of <a href="https://github.com/molmdl/MD-zero/releases/tag/MDportable_2021.09.30">CPU Gromacs binary (Version 2019.6) packed with several analysis tools</a>. 
 
 For a more updated version or GPU-accelerated version of GROMACS binary on Windows, please refer to other sources, e.g. https://github.com/shoubhikraj/gromacs-windows/releases , or compile it yourself for optimized performance.
 
