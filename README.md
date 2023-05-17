@@ -22,7 +22,7 @@ For details and related references of different projects, please refer to the RE
 Here is a list of software have the potential in future educational projects. They are lacking some important features which forced me to stay with other programs for now, but I look forward to their future development.
 1. <a href="https://fold.it">Foldit</a> and <a href="">FolditStandalone</a>
     - <b>Advantage:</b> Foldit is a video game of protein modelling, protein design, and small-molecule design that use ROSETTA as the backend. It is a molecular modelling softare but not a MD softare. It has comprehensive biochemistry tutorial and provides game-like hands-on experience on molecular modelling.
-    - <b>Disadvantage: Foldit/FolditStandalone only has limited support for non-protein. Setting up custom puzzle is also tricky.
+    - <b>Disadvantage:</b> Foldit/FolditStandalone only has limited support for non-protein. Setting up custom puzzle is also tricky.
 2. <a href="https://www.cgl.ucsf.edu/chimerax/">UCSF ChimeraX</a> 
     - <b>Advantage:</b> Allows interactive MD simulation within the GUI.
 	- <b>Disadvantage:</b> Limited forcefield parameters, currently only for protein with standard amino acids and an addition set of small-molecules. Requires a recent version of OpenGL and not available on CentOS7 server.
