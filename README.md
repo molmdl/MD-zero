@@ -1,5 +1,8 @@
 # MD-zero
-Collection of educational materials and project files being prepared for my teaching duties since I have started learning to do molecular modelling, in particular molecular dynamics (MD) simulation. Includes a precompiled version of CPU Gromacs (Version 2019.6) binary for Windows computers and several analysis tools. 
+Collection of educational materials and project files being prepared for my teaching duties since I have started learning to do molecular modelling, in particular molecular dynamics (MD) simulation. 
+
+Includes a Windows-only protable package of <a href="https://github.com/molmdl/MD-zero/releases/tag/MDportable_2021.09.30">CPU Gromacs binary (Version 2019.6) packed with several analysis tools</a>. 
+
 For a more updated version or GPU-accelerated version of GROMACS binary on Windows, please refer to other sources, e.g. https://github.com/shoubhikraj/gromacs-windows/releases , or compile it yourself for optimized performance.
 
 Part of the materials aimed to provide students with a brief experience of what is molecular modelling and MD, which is not recommended for actually learning the technique. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
