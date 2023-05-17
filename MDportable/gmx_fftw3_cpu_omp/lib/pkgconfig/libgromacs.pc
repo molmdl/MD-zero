@@ -1,0 +1,11 @@
+libdir=D:/src/gromacs-2019.6/gmx_fftw3_cpu_omp/lib
+
+Name: libgromacs
+Description: Gromacs library
+URL: http://www.gromacs.org
+Version: 2019.6
+Requires: fftw3f 
+Libs.private:  -l 
+Libs: -L${libdir} -lgromacs  -lm 
+Cflags:  -ID:/src/gromacs-2019.6/gmx_fftw3_cpu_omp/include -DGMX_DOUBLE=0 -openmp /std:c++14 /Zc:__cplusplus 
+
