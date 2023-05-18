@@ -1,0 +1,810 @@
+MODEL 1
+REMARK VINA RESULT:      -8.2      0.000      0.000
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      18.836   7.229   5.471  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      18.478   6.580   4.402  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      18.867   6.204   6.623  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      18.586   4.873   5.948  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      17.856   5.186   4.895  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      20.269   7.818   5.291  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      20.467   9.083   6.248  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      21.512   9.891   5.742  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      21.119  10.688   5.261  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      22.021  10.171   6.416  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      22.005   9.416   5.174  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      19.206   9.881   6.272  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      18.578   9.920   7.715  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      18.160  11.350   8.014  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      17.451  11.440   9.391  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      16.595  12.299   9.580  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      17.764  10.616  10.337  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      19.321  12.233   8.011  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      19.787  12.175   8.906  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      19.885  11.987   7.369  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      19.056  13.071   7.870  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      17.920   6.505   7.538  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      18.103   6.120   8.273  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      17.844   3.942   6.885  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      17.568   3.264   6.453  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      17.921   4.181   3.817  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      16.951   3.979   2.919  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      15.755   4.544   2.725  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      17.351   3.002   2.090  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      14.952   4.132   1.709  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      15.358   3.137   0.869  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      16.538   2.582   1.061  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      18.569   2.594   2.477  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      18.922   3.316   3.532  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      16.747   1.550   0.047  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      16.152   1.413  -0.557  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      17.467   1.079   0.055  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.8      1.560      2.029
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      19.198   7.313   4.990  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      19.688   6.612   4.010  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      18.214   6.395   5.744  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      18.367   5.045   5.066  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      18.732   5.336   3.833  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      20.334   7.738   5.971  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      20.147   9.266   6.398  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      19.490   9.964   5.357  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      20.177  10.375   4.741  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      18.980   9.396   4.898  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      18.981  10.605   5.705  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      19.307   9.332   7.630  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      19.695  10.567   8.526  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      18.591  11.604   8.412  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      17.544  11.419   9.543  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      17.657  10.485  10.331  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      16.555  12.244   9.653  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      19.145  12.951   8.485  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      20.140  12.895   8.651  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      18.998  13.378   7.719  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      18.759  13.395   9.152  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      16.955   6.869   5.627  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      16.882   7.303   4.900  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      17.061   4.279   5.095  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      16.724   4.261   4.315  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      19.454   4.239   3.160  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      18.869   3.309   2.398  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      17.600   3.090   2.040  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      19.824   2.482   1.947  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      17.279   2.043   1.238  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      18.249   1.201   0.781  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      19.500   1.419   1.133  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      21.004   2.896   2.431  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      20.782   3.974   3.173  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      20.350   0.394   0.529  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      21.061   0.132   0.933  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      20.137   0.052  -0.231  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.7      1.881      2.746
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      19.487   6.650   6.331  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      18.677   5.786   5.793  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      20.627   6.878   5.319  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      20.209   6.079   4.097  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      19.471   5.100   4.581  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      18.752   8.006   6.568  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      19.778   9.220   6.403  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      19.446   9.955   5.240  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      18.458  10.164   5.244  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      19.912  10.714   5.227  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      19.645   9.473   4.519  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      19.668  10.119   7.590  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      18.164  10.423   7.942  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      18.059  11.877   8.369  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      17.654  12.776   7.170  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      17.277  13.926   7.372  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      17.710  12.313   5.964  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      17.076  12.027   9.436  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      16.600  12.912   9.330  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      16.483  11.366   9.393  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      17.489  12.007  10.224  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      21.796   6.431   5.827  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      22.416   6.981   5.640  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      21.423   5.551   3.359  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      21.555   6.014   2.660  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      18.527   4.534   3.599  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      18.842   3.580   2.717  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      19.969   2.909   2.462  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      17.745   3.307   1.993  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      20.009   1.969   1.482  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      18.895   1.693   0.745  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      17.783   2.355   0.998  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      16.749   4.095   2.423  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      17.224   4.847   3.408  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      16.738   1.892   0.087  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      16.945   1.419  -0.600  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      15.915   2.093   0.238  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.6      1.899      2.983
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      20.320   8.951   6.571  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      20.785   7.871   6.014  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      18.839   8.675   6.903  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      18.639   7.215   6.539  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      19.517   6.991   5.580  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      21.081   9.244   7.901  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      21.977  10.558   7.741  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      22.477  10.623   6.419  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      23.196   9.924   6.296  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      21.814  10.471   5.845  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      22.820  11.430   6.270  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      21.133  11.762   7.998  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      20.032  11.469   9.085  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      18.689  11.920   8.537  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      17.532  11.443   9.455  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      17.558  10.312   9.930  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      16.542  12.233   9.714  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      18.645  13.373   8.423  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      19.429  13.689   7.869  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      17.887  13.621   8.028  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      18.691  13.736   9.234  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      18.041   9.482   6.170  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      18.458  10.198   5.982  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      17.221   6.969   6.066  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      17.049   7.476   5.407  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      19.894   5.571   5.448  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      19.196   4.670   4.749  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      18.071   4.744   4.031  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      19.832   3.492   4.842  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      17.573   3.644   3.410  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      18.217   2.446   3.507  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      19.327   2.374   4.214  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      20.923   3.660   5.603  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      20.965   4.933   5.974  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      19.829   1.002   4.173  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      20.373   0.725   4.777  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      19.579   0.471   3.543  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.6      2.474      8.488
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      20.081   6.613   5.375  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      20.978   7.316   6.002  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      18.839   7.514   5.222  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      19.284   8.860   5.766  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      20.213   8.566   6.653  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      20.593   6.226   3.953  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      20.380   4.663   3.700  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      20.550   3.966   4.920  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      19.813   3.283   5.023  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      21.339   3.554   4.917  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      20.518   4.542   5.597  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      18.993   4.432   3.200  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      18.329   3.188   3.901  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      16.961   3.604   4.414  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      16.940   3.634   5.965  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      15.895   3.397   6.564  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      18.017   3.910   6.624  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      16.603   4.922   3.903  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      17.441   5.472   3.778  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      16.187   4.838   3.121  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      16.066   5.330   4.483  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      17.808   7.009   5.934  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      17.075   7.290   5.609  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      18.120   9.595   6.399  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      17.843   9.160   7.074  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      21.155   9.673   6.907  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      20.946  10.650   7.795  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      19.943  10.918   8.637  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      22.006  11.472   7.763  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      19.991  12.008   9.446  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      21.067  12.845   9.413  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      22.056  12.579   8.582  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      22.873  11.007   6.853  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      22.357   9.904   6.328  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      23.085  13.608   8.724  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      22.914  14.329   9.160  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      23.861  13.492   8.373  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.4      3.291      7.942
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      21.699   6.303   5.199  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      20.717   6.779   5.907  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      22.779   7.402   5.143  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      22.249   8.496   6.053  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      20.938   8.365   5.995  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      22.306   5.045   5.894  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      21.202   3.894   6.004  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      20.267   4.240   7.008  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      19.903   3.400   7.434  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      20.669   4.738   7.627  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      19.599   4.701   6.644  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      20.489   3.772   4.699  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      18.927   3.785   4.895  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      18.341   4.849   3.983  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      17.042   4.339   3.304  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      15.995   4.304   3.943  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      17.064   3.949   2.072  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      18.045   6.062   4.738  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      18.898   6.421   5.142  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      17.694   6.675   4.197  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      17.467   5.873   5.388  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      22.928   7.843   3.874  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      22.296   7.541   3.394  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      22.696   9.860   5.570  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      22.016  10.349   5.428  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      20.240   8.920   7.170  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      19.419   9.975   7.128  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      19.011  10.775   6.138  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      18.961  10.192   8.371  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      18.152  11.797   6.384  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      17.688  12.020   7.647  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      18.090  11.230   8.623  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      19.501   9.275   9.186  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      20.283   8.492   8.453  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      17.467  11.663   9.872  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      17.951  11.796  10.570  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      16.617  11.784   9.910  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -7.2      2.920      8.034
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      21.919   6.652   4.955  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      21.423   7.837   5.156  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      21.764   5.875   6.278  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      20.981   6.817   7.176  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      21.299   8.022   6.744  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      21.113   5.909   3.845  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      19.548   5.994   4.155  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      19.071   7.277   3.796  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      18.382   7.187   3.063  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      18.700   7.663   4.508  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      19.749   7.775   3.507  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      18.831   4.967   3.342  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      18.625   3.634   4.153  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      17.150   3.505   4.491  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      16.925   3.602   6.024  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      15.804   3.418   6.488  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      17.915   3.879   6.808  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      16.380   4.549   3.825  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      15.918   4.160   3.015  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      15.769   4.875   4.384  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      16.926   5.202   3.568  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      22.979   5.592   6.797  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      23.523   6.214   6.599  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      21.370   6.623   8.627  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      20.820   7.034   9.127  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      20.289   9.047   7.068  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      20.579  10.284   7.483  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      21.730  10.922   7.716  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      19.422  10.939   7.673  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      21.733  12.211   8.144  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      20.558  12.876   8.339  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      19.423  12.246   8.108  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      18.414  10.107   7.379  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      18.940   8.947   7.006  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      18.312  13.153   8.388  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      17.504  12.862   8.367  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      18.466  13.979   8.573  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -7.0      2.590      8.362
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      19.725   7.116   4.079  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      19.186   8.023   4.840  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      20.871   6.478   4.892  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      20.759   7.121   6.263  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      20.224   8.303   6.030  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      18.681   6.007   3.737  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      18.348   5.147   5.042  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      17.439   5.866   5.854  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      16.497   5.563   5.654  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      17.625   5.713   6.712  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      17.514   6.736   5.684  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      17.715   3.859   4.631  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      16.556   4.094   3.592  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      16.721   3.094   2.460  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      15.589   3.258   1.411  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      14.840   4.228   1.471  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      15.434   2.375   0.480  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      18.013   3.272   1.806  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      17.928   3.034   0.828  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      18.274   4.119   1.882  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      18.614   2.739   2.188  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      22.059   6.752   4.312  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      22.569   7.132   4.875  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      22.123   7.244   6.911  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      22.032   7.393   7.742  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      19.528   8.874   7.199  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      18.948  10.079   7.215  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      18.825  11.044   6.298  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      18.410  10.263   8.431  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      18.170  12.197   6.592  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      17.625  12.385   7.828  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      17.747  11.432   8.731  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      18.659   9.173   9.171  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      19.341   8.319   8.419  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      17.091  11.861   9.965  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      16.371  12.329   9.929  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      17.425  11.645  10.727  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.9      2.714      8.771
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      20.494   6.020   4.334  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      20.227   7.261   4.620  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      20.721   5.295   5.677  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      20.399   6.343   6.727  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      20.676   7.492   6.142  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      19.281   5.358   3.610  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      18.188   4.898   4.681  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      17.266   5.952   4.888  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      17.606   6.790   4.437  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      16.478   5.727   4.542  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      17.177   6.100   5.761  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      17.453   3.710   4.153  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      16.989   3.937   2.666  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      17.296   2.679   1.873  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      16.011   2.123   1.202  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      15.219   2.895   0.672  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      15.776   0.852   1.205  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      18.295   2.952   0.846  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      18.201   2.278   0.100  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      18.175   3.771   0.521  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      19.109   2.889   1.200  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      22.002   4.878   5.769  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      22.507   5.545   5.918  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      21.241   6.133   7.970  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      22.033   6.404   7.826  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      19.954   8.638   6.726  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      20.544   9.758   7.156  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      21.818  10.161   7.197  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      19.586  10.580   7.614  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      22.142  11.380   7.701  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      21.170  12.214   8.168  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      19.914  11.817   8.126  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      18.402   9.969   7.471  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      18.623   8.780   6.926  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      19.064  12.869   8.679  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      19.383  13.420   9.256  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      18.244  12.937   8.427  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -6.8      3.024      8.370
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      19.494   6.975   4.063  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      18.913   7.856   4.824  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      20.803   6.571   4.773  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      20.746   7.298   6.105  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      20.020   8.372   5.863  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      18.595   5.708   3.917  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      18.445   4.977   5.330  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      17.370   5.559   6.043  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      16.862   4.837   6.535  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      17.689   6.149   6.628  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      16.825   5.970   5.474  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      18.150   3.531   5.105  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      18.121   3.184   3.570  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      19.049   2.005   3.330  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      20.523   2.398   3.613  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      21.032   3.333   3.002  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      21.214   1.741   4.487  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      18.678   0.882   4.183  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      19.305   0.842   4.975  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      17.844   0.987   4.473  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      18.740   0.124   3.720  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      21.868   6.960   4.041  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      22.267   6.276   3.734  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      22.139   7.661   6.578  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      22.693   7.550   5.944  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      19.378   8.930   7.068  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      18.825  10.146   7.131  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      18.690  11.134   6.240  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      18.333  10.314   8.368  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      18.071  12.293   6.582  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      17.573  12.465   7.840  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      17.706  11.490   8.717  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      18.584   9.203   9.076  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      19.221   8.352   8.282  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      17.103  11.904   9.983  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      17.389  11.575  10.723  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      16.462  12.477   9.986  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12
+ENDMDL

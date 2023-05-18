@@ -1,4 +1,4 @@
 [submodule "training2022/simplifyEval"]
-	path = training2022/simplifyEval
+	path = 2022-training/simplifyEval/simplifyEval
 	url = https://github.com/molmdl/simplifyEval.git
 	branch = main

@@ -11,13 +11,15 @@ Collection of educational materials and project files prepared for my teaching d
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-**NOTE: files with the following extension are stored via git-lfs.**
+**NOTE: files with the following extensions are stored via git-lfs.**
 - zip 
 - trr 
 - xtc 
 - mp4 
 - tgz 
 - pptx
+Please download them via web-version of GitHub or `git lfs` if you use the command line interface.
+
 ---
 A 64-bit Windows-only "portable" package of [CPU Gromacs binary (Version 2019.6) bundled with several analysis tools](https://github.com/molmdl/MD-zero/releases/tag/MDportable_2021.09.30_fixed_release) can be found in "[Releases](https://github.com/molmdl/MD-zero/releases/)" for easy installation and usage. 
 **However, I DO NOT own the copyright of Gromacs, QTGrace and Jmol; NOR do I own copyright of the documents included in the "doc" directory in the package. Please refer to the corresponding license file for the infomration.**
