@@ -1,6 +1,6 @@
 # FYP2020
 
-In 2020, I am in charge of 3 undergraduate students who worked on projects related to molecular modelling.
+In 2020, I was in charge of 3 undergraduate students who worked on projects related to molecular modelling.
 
 One student was under the supervision of my superviosor (computational chemist). He/she worked on the metalloprotein 2-semester project.
 

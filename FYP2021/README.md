@@ -1,6 +1,6 @@
 # FYP2021
 
-In this year I am only in charge of one undergraduate research student.
+In this year I was only in charge of one undergraduate research student.
 
 The hands-on docking training session was also prepared for research postgraduate students and RA from the group of our experimental collaborator. 
 
