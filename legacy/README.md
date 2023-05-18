@@ -1,5 +1,5 @@
 # Legacy 
-Outdate or incomplete materials keeping here for reference
+Outdated or incomplete materials keeping here for (historical) reference
 
 - MD101_demo
     - The demo PPT was prepared before the usage of CHARMM-GUI requires registion. 
