@@ -1,6 +1,6 @@
 # Introductory exercise on homology modelling and MD simulation for experimental researchers
 
-The actual hands-on exercise involves the use of unpublished results from the experimental group thus not provided in this directory. Slides were modified accordingly.
+The actual hands-on exercise involved the use of unpublished results from the experimental group thus not provided in this directory. Slides were modified accordingly.
 
 Slides adjusted according to the lesson each superviosor would like to deliver to their students, and based on the superviosor's comments on the student.
 
