@@ -2,7 +2,7 @@
 
 The actual hands-on exercise involves the use of unpublished results from the experimental group thus not provided in this directory. Slides were modified accordingly.
 
-Slides adjusted according to the lesson each superviosor would like to delivered to their students, and based on the superviosor's comments on the student.
+Slides adjusted according to the lesson each superviosor would like to deliver to their students, and based on the superviosor's comments on the student.
 
 Highlights of methodology:
 - Protein data taken from UniprotKB and the RCSB PDB.
