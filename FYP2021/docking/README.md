@@ -1,10 +1,8 @@
 # Inhibitor design project 2021
 
-Since the project is related to a part of the unpublished work of our group,  not all the files of the hands-on exercise would be included here.
+Since the project is related to a part of the unpublished work in our group, not all the files for the hands-on exercise would be included here.
 
-Only modified scripts and tutorial notes that use other biomolecular systems wouldbe provided here.
-
-This was a one-semester (6-month) individual project. The project includes 
+This was a one-semester (6-month) individual project. The project included
 - literature review, 
 - one progress report and one final thesis required by the department 
 - research planning, 

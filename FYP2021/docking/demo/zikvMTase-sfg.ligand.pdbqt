@@ -1,0 +1,78 @@
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  N_1 
+REMARK    2  A    between atoms: C_3  and  CA_2 
+REMARK    3  A    between atoms: CA_2  and  CB_6 
+REMARK    4  A    between atoms: CB_6  and  CG_7 
+REMARK    5  A    between atoms: CD_8  and  CG_7 
+REMARK    6  A    between atoms: C5'_10  and  CD_8 
+REMARK    7  A    between atoms: CD_8  and  NE_9 
+REMARK    8  A    between atoms: C4'_11  and  C5'_10 
+REMARK    9  A    between atoms: C3'_13  and  O3'_14 
+REMARK   10  A    between atoms: C2'_15  and  O2'_16 
+REMARK   11  A    between atoms: C1'_17  and  N9_18 
+REMARK   12  A    between atoms: C6_22  and  N6_23 
+ROOT
+HETATM    1  C4' SFG A 301      23.944  12.939   6.724  1.00 31.44     0.157 C 
+HETATM    2  O4' SFG A 301      23.567  11.752   6.349  1.00 28.22    -0.355 OA
+HETATM    3  C3' SFG A 301      23.641  13.044   8.233  1.00 26.77     0.180 C 
+HETATM    4  C2' SFG A 301      23.156  11.657   8.615  1.00 28.37     0.198 C 
+HETATM    5  C1' SFG A 301      22.619  11.180   7.509  1.00 30.91     0.262 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C5' SFG A 301      25.480  13.111   6.512  1.00 18.74     0.067 C 
+BRANCH   6   7
+HETATM    7  CD  SFG A 301      25.874  14.658   6.587  1.00 20.39     0.186 C 
+BRANCH   7   8
+HETATM    8  NE  SFG A 301      27.207  14.777   7.047  1.00 37.73    -0.075 N 
+HETATM    9  HE1 SFG A 301      27.311  14.267   7.913  1.00  0.00     0.274 HD
+HETATM   10 1HNE SFG A 301      27.761  14.442   6.436  1.00 45.32     0.274 HD
+HETATM   11 2HNE SFG A 301      27.398  15.635   7.183  1.00 45.32     0.274 HD
+ENDBRANCH   7   8
+BRANCH   7  12
+HETATM   12  CG  SFG A 301      25.778  15.255   5.222  1.00 29.83     0.035 C 
+BRANCH  12  13
+HETATM   13  CB  SFG A 301      25.951  16.819   5.266  1.00 22.35     0.046 C 
+BRANCH  13  14
+HETATM   14  CA  SFG A 301      25.316  17.404   4.016  1.00 18.63     0.283 C 
+BRANCH  14  15
+HETATM   15  C   SFG A 301      25.238  18.951   4.110  1.00 22.78     0.204 C 
+HETATM   16  O   SFG A 301      24.577  19.474   5.002  1.00 25.23    -0.646 OA
+HETATM   17  OXT SFG A 301      25.864  19.686   3.250  1.00 22.35    -0.646 OA
+ENDBRANCH  14  15
+BRANCH  14  18
+HETATM   18  N   SFG A 301      26.082  17.032   2.832  1.00 25.47    -0.065 N 
+HETATM   19  H1  SFG A 301      25.970  16.043   2.658  1.00  0.00     0.275 HD
+HETATM   20  HN1 SFG A 301      25.789  17.490   2.128  1.00 30.62     0.275 HD
+HETATM   21  HN2 SFG A 301      26.943  17.212   2.967  1.00 30.62     0.275 HD
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH   7  12
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+BRANCH   3  22
+HETATM   22  O3' SFG A 301      22.691  13.979   8.452  1.00 20.74    -0.390 OA
+HETATM   23 'HO3 SFG A 301      21.952  13.597   8.625  1.00 24.94     0.210 HD
+ENDBRANCH   3  22
+BRANCH   4  24
+HETATM   24  O2' SFG A 301      22.143  11.733   9.739  1.00 24.34    -0.388 OA
+HETATM   25 'HO2 SFG A 301      21.385  11.953   9.425  1.00 29.26     0.210 HD
+ENDBRANCH   4  24
+BRANCH   5  26
+HETATM   26  N9  SFG A 301      22.579   9.706   7.464  1.00 28.03    -0.294 N 
+HETATM   27  C4  SFG A 301      21.633   8.998   6.838  1.00 22.20     0.167 A 
+HETATM   28  N3  SFG A 301      20.548   9.344   6.138  1.00 27.22    -0.222 NA
+HETATM   29  C5  SFG A 301      21.917   7.696   6.997  1.00 24.36     0.149 A 
+HETATM   30  C2  SFG A 301      19.740   8.394   5.600  1.00 27.50     0.237 A 
+HETATM   31  N1  SFG A 301      20.027   7.071   5.763  1.00 30.45    -0.222 NA
+HETATM   32  C6  SFG A 301      21.098   6.731   6.453  1.00 30.78     0.155 A 
+HETATM   33  N7  SFG A 301      23.038   7.595   7.725  1.00 26.56    -0.236 NA
+HETATM   34  C8  SFG A 301      23.448   8.824   8.011  1.00 21.99     0.214 A 
+BRANCH  32  35
+HETATM   35  N6  SFG A 301      21.194   5.273   6.493  1.00 33.46    -0.382 N 
+HETATM   36 1HN6 SFG A 301      20.660   4.794   6.020  1.00 40.20     0.157 HD
+HETATM   37 2HN6 SFG A 301      21.785   4.894   6.990  1.00 40.20     0.157 HD
+ENDBRANCH  32  35
+ENDBRANCH   5  26
+TORSDOF 12

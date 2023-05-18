@@ -8,7 +8,7 @@ An additional simulation of a larger metalloprotein system had been prepared by 
 
 Trajectories are not provided due to the large filesize.
 
-This was a 2-semester (12-month) individual project. The project includes 
+This was a 2-semester (12-month) individual project. The project included
 - literature review, 
 - two progress reports and one final thesis required by the department 
 - research planning, 

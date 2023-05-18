@@ -1,0 +1,71 @@
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK       I    between atoms: N_1  and  CA_2 
+REMARK       I    between atoms: CA_2  and  C_3 
+REMARK       I    between atoms: CA_2  and  CB_5 
+REMARK       I    between atoms: CB_5  and  CG_6 
+REMARK       I    between atoms: CG_6  and  CD_7 
+REMARK       I    between atoms: CD_7  and  NE_8 
+REMARK       I    between atoms: CD_7  and  C5'_9 
+REMARK       I    between atoms: C5'_9  and  C4'_10 
+REMARK    1  A    between atoms: C3'_12  and  O3'_13 
+REMARK    2  A    between atoms: C2'_14  and  O2'_15 
+REMARK    3  A    between atoms: C1'_16  and  N9_33 
+REMARK    4  A    between atoms: C07_18  and  N6_30 
+REMARK    5  A    between atoms: C6_29  and  N6_30 
+ROOT
+ATOM      1  N   SFG A   1      18.319  13.274   5.721  0.00  0.00    -0.065 N 
+ATOM      2  CA  SFG A   1      17.987  12.409   6.848  0.00  0.00     0.283 C 
+ATOM      3  C   SFG A   1      17.700  13.284   8.097  0.00  0.00     0.204 C 
+ATOM      4  O   SFG A   1      17.333  12.752   9.141  0.00  0.00    -0.646 OA
+ATOM      5  CB  SFG A   1      19.118  11.433   7.121  0.00  0.00     0.046 C 
+ATOM      6  CG  SFG A   1      19.196  10.419   5.920  0.00  0.00     0.035 C 
+ATOM      7  CD  SFG A   1      19.877   9.152   6.321  0.00  0.00     0.186 C 
+ATOM      8  NE  SFG A   1      21.248   9.419   6.547  0.00  0.00    -0.075 N 
+ATOM      9  C5' SFG A   1      19.738   8.085   5.139  0.00  0.00     0.067 C 
+ATOM     10  C4' SFG A   1      18.434   7.249   5.323  0.00  0.00     0.157 C 
+ATOM     11  O4' SFG A   1      18.143   6.618   4.223  0.00  0.00    -0.355 OA
+ATOM     12  C3' SFG A   1      18.687   6.172   6.398  0.00  0.00     0.180 C 
+ATOM     13  C2' SFG A   1      18.605   4.859   5.639  0.00  0.00     0.198 C 
+ATOM     14  C1' SFG A   1      17.787   5.110   4.635  0.00  0.00     0.262 C 
+ATOM     15  OXT SFG A   1      17.843  14.567   8.038  0.00  0.00    -0.646 OA
+ATOM     16  HN1 SFG A   1      17.720  13.929   5.658  0.00  0.00     0.275 HD
+ATOM     17  HN2 SFG A   1      19.129  13.622   5.843  0.00  0.00     0.275 HD
+ATOM     18 1HNE SFG A   1      21.588   9.836   5.838  0.00  0.00     0.274 HD
+ATOM     19 2HNE SFG A   1      21.334   9.936   7.266  0.00  0.00     0.274 HD
+ATOM     20  HE1 SFG A   1      21.741   8.550   6.696  0.00  0.00     0.274 HD
+ATOM     21  H1  SFG A   1      18.313  12.731   4.869  0.00  0.00     0.275 HD
+ENDROOT
+BRANCH  14  22
+ATOM     22  N9  SFG A   1      17.972   4.203   3.486  0.00  0.00    -0.294 N 
+ATOM     23  C4  SFG A   1      16.991   3.827   2.659  0.00  0.00     0.167 A 
+ATOM     24  N3  SFG A   1      15.685   4.108   2.606  0.00  0.00    -0.222 NA
+ATOM     25  C5  SFG A   1      17.519   3.012   1.734  0.00  0.00     0.150 A 
+ATOM     26  C2  SFG A   1      14.902   3.573   1.635  0.00  0.00     0.237 A 
+ATOM     27  N1  SFG A   1      15.438   2.743   0.695  0.00  0.00    -0.222 NA
+ATOM     28  C6  SFG A   1      16.726   2.467   0.748  0.00  0.00     0.162 A 
+ATOM     29  N7  SFG A   1      18.829   2.879   1.987  0.00  0.00    -0.236 NA
+ATOM     30  C8  SFG A   1      19.111   3.609   3.059  0.00  0.00     0.214 A 
+BRANCH  28  31
+ATOM     31  N6  SFG A   1      17.064   1.564  -0.350  0.00  0.00    -0.339 N 
+ATOM     32  H05 SFG A   1      16.377   1.352  -1.060  0.00  0.00     0.167 HD
+BRANCH  31  33
+ATOM     33  C07 SFG A   1      18.240   1.037  -0.413  0.00  0.00     0.035 A 
+ATOM     34  C02 SFG A   1      18.379  -0.348  -0.601  0.00  0.00     0.029 A 
+ATOM     35  C03 SFG A   1      19.659  -0.922  -0.670  0.00  0.00     0.004 A 
+ATOM     36  C04 SFG A   1      20.800  -0.111  -0.551  0.00  0.00     0.024 A 
+ATOM     37  C05 SFG A   1      20.660   1.274  -0.363  0.00  0.00     0.036 A 
+ATOM     38  C06 SFG A   1      19.380   1.848  -0.294  0.00  0.00     0.053 A 
+ATOM     39 Cl1  SFG A   1      22.098   2.296  -0.213  0.00  0.00    -0.084 Cl
+ENDBRANCH  31  33
+ENDBRANCH  28  31
+ENDBRANCH  14  22
+BRANCH  13  40
+ATOM     40  O2' SFG A   1      18.072   3.756   6.530  0.00  0.00    -0.388 OA
+ATOM     41 'HO2 SFG A   1      17.227   3.820   6.588  0.00  0.00     0.210 HD
+ENDBRANCH  13  40
+BRANCH  12  42
+ATOM     42  O3' SFG A   1      17.744   6.247   7.362  0.00  0.00    -0.390 OA
+ATOM     43 'HO3 SFG A   1      17.191   5.609   7.267  0.00  0.00     0.210 HD
+ENDBRANCH  12  42
+TORSDOF 13
