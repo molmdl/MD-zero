@@ -16,7 +16,7 @@ A 64-bit Windows-only "portable" package of <a href="https://github.com/molmdl/M
 
 For a more updated or GPU-accelerated version of GROMACS binary on Windows, please refer to other sources, e.g. from <a href="https://github.com/search?q=gromacs+windows&type=repositories"> these repositories</a> or compile it yourself for optimized performance.
 
-Part of the materials aimed to provide students with a brief experience of what is molecular modelling and MD, which is not recommended for actually learning the technique. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
+Many students who lack computational background love double-clickers. Whenever they see an icon, they double-click it. If the double-click action does not open a new window, they lost 50% of their motivation. If they found that it is a command-line program, they lost 90% of their motivation. Part of the materials aimed to provide these students with a brief experience of what is molecular modelling and MD, which is not recommended for actually learning the technique. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
 
 Also include materials of other molecular modelling techniques which is not necessarily MD.
 
