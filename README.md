@@ -23,11 +23,11 @@ Please download them via web-version of GitHub or `git lfs` if you use the comma
 
 ---
 A 64-bit Windows-only "portable" package of [CPU Gromacs binary (Version 2019.6) bundled with several analysis tools](https://github.com/molmdl/MD-zero/releases/tag/MDportable_2021.09.30_fixed_release) can be found in "[Releases](https://github.com/molmdl/MD-zero/releases/)" for easy installation and usage. 
-**However, I DO NOT own the copyright of Gromacs, QTGrace and Jmol; NOR do I own copyright of the documents included in the "doc" directory in the package. Please refer to the corresponding license file for the infomration.**
+**However, I DO NOT own the copyright of Gromacs, QTGrace and Jmol; NOR do I own copyright of the documents included in the "doc" directory in the package. Please refer to the corresponding license file for the information.**
 
 For a more updated or GPU-accelerated version of GROMACS binary on Windows, please refer to other sources, e.g. from [these repositories](https://github.com/search?q=gromacs+windows&type=repositories) or compile it yourself for optimized performance.
 
-Many students who lack computational background love double-clickers. Whenever they see an icon, they double-click it. If the double-click action does not open a new window, they lose 50% of their motivation. If they found that it is a command-line program, they lose 90% of their motivation. Part of the materials aimed to provide these students with a brief experience of what is molecular modelling and MD, which is not recommended for actually learning the technique. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
+Many students who lack computational background love double-clickers. Whenever they see an icon, they double-click it. If the double-click action does not open a new window, they lose 50% of their motivation. If they found that it is a command-line program, they lose 90% of their motivation. Part of the materials aimed to provide these students with a brief experience of what is molecular modelling and MD. This is not recommended for learning the technique in practice. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
 
 Also include materials of other molecular modelling techniques which is not necessarily MD.
 
