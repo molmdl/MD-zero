@@ -11,7 +11,7 @@ Collection of educational materials and project files prepared for my teaching d
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-A 64-bit Windows-only "portable" package of <a href="https://github.com/molmdl/MD-zero/releases/tag/MDportable_2021.09.30">CPU Gromacs binary (Version 2019.6) bundled with several analysis tools</a> can be found in <a href="https://github.com/molmdl/MD-zero/releases/">"Releases"</a> for easy installation and usage. 
+A 64-bit Windows-only "portable" package of <a href="https://github.com/molmdl/MD-zero/releases/tag/MDportable_2021.09.30_fixed_release">CPU Gromacs binary (Version 2019.6) bundled with several analysis tools</a> can be found in <a href="https://github.com/molmdl/MD-zero/releases/">"Releases"</a> for easy installation and usage. 
 <b>However, I DO NOT own the copyright of Gromacs, QTGrace and Jmol; NOR do I own copyright of the documents included in the "doc" directory in the package. Please refer to the corresponding license file for the infomration.</b>
 
 For a more updated or GPU-accelerated version of GROMACS binary on Windows, please refer to other sources, e.g. from <a href="https://github.com/search?q=gromacs+windows&type=repositories"> these repositories</a> or compile it yourself for optimized performance.
