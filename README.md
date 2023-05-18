@@ -50,6 +50,6 @@ Here is a list of software have the potential to be utilized in future education
 4. [Dynamics plugin for PyMOL](https://pymolwiki.org/index.php/GROMACS_Plugin)
     - **Advantage:** This is a PyMOL plugin that provides a GUI to configure and analyse GROMACS simulations within PyMOL.
 	- **Disadvantage:** Limited options for simulation, especially in the choice of forcefield.
-5. [Galaxy Platform]
+5. [Galaxy Platform](galaxyproject.org)
     - **Advantage:** A web server for life-science research including molecular modelling. Provides an exhaustive collection of tools and workflow on cloud with user-friendly GUI, no installation is needed.
 	- **Disadvantage:** It is a server, experimental collaborators may have concerns about submitting unpublished data to a server hosted by other institutions. Limited options implemented in the GUI.
