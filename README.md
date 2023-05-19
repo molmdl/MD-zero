@@ -17,7 +17,7 @@ Collection of educational materials and project files prepared for my teaching d
 - xtc 
 - mp4 
 - tgz 
-- pptx
+- gz
 
 Please download them via web-version of GitHub or `git lfs` if you use the command line interface.
 
