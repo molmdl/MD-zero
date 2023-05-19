@@ -1,4 +1,5 @@
 # MD-zero
+## Description
 Collection of educational materials and project files prepared for my teaching duties since I have started learning to do molecular modelling, in particular molecular dynamics (MD) simulation. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmolmdl%2FMD-zero&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -21,18 +22,23 @@ Collection of educational materials and project files prepared for my teaching d
 Complete list of files stored on git-lfs can be found in "[lfs-files.txt](https://github.com/molmdl/MD-zero/blob/main/lfs-files.txt)"
 
 ---
+## Notes on MDportable
 A 64-bit Windows-only "portable" package of [CPU Gromacs binary (Version 2019.6) bundled with several analysis tools](https://github.com/molmdl/MD-zero/releases/tag/MDportable_2021.09.30_fixed_release) can be found in "[Releases](https://github.com/molmdl/MD-zero/releases/)" for easy installation and usage. 
 **However, I DO NOT own the copyright of Gromacs, QTGrace and Jmol; NOR do I own copyright of the documents included in the "doc" directory in the package. Please refer to the corresponding license file for the information.**
 
 For a more updated or GPU-accelerated version of GROMACS binary on Windows, please refer to other sources, e.g. from [these repositories](https://github.com/search?q=gromacs+windows&type=repositories) or compile it yourself for optimized performance.
 
-Many students who lack computational background love double-clickers. Whenever they see an icon, they double-click it. If the double-click action does not open a new window, they lose 50% of their motivation. If they found that it is a command-line program, they lose 90% of their motivation. Part of the materials aimed to provide these students with a brief experience of what is molecular modelling and MD. This is not recommended for learning the technique in practice. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
+A detailed description on MDportable bundle can be found in "[README_MDportable.txt](https://github.com/molmdl/MD-zero/blob/main/README_MDportable.txt)" which is also included in the zip archive in Release.
 
-Also include materials of other molecular modelling techniques which is not necessarily MD.
+---
+## Motivation
+Many students who lack computational background love double-clickers. Whenever they see an icon, they double-click it. If the double-click action does not open a new window, they lose 50% of their motivation. If they found that it is a command-line program, they lose 90% of their motivation. Part of the materials aimed to provide these students with a brief experience of what is molecular modelling and MD. Such simplified methods may not ideal for learning the technique in practice. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
 
-I aquired my (minimal) programming skill via self-teaching, i.e. pseudo-code + Googling + (minimal) reference book. The code may not be optimized or following best-practices. Please feel free to comment on how to improve the code!
-
-For details and related references of different projects, please refer to the README file in the corresponding directory. 
+---
+## Remarks
+- Also include materials of other molecular modelling techniques which is not necessarily MD.
+- I aquired my (minimal) programming skill via self-teaching, i.e. pseudo-code + Googling + (minimal) reference book. The code may not be optimized or following best-practices. Please feel free to comment on how to improve the code!
+- For details and related references of different projects, please refer to the README file in the corresponding directory. 
 
 ---
 ## Other tools that can be useful for educational purposes 
