@@ -1,6 +1,6 @@
 # Metalloprotein project 2020
 
-Since the student hadn't decided on the protein to simulate as I prepare the first part of demo session, I used PDE as the example.
+Since the student hadn't decided on the protein to simulate as I was preparing the first part of demonstration, I selected PDE as the example.
 
 For the hands-on exercise using the student's own laptop, a small system of model zinc finger (PDB: 1ZNF (A)) was selected. This allowed the simulation to be finished within a reasonable amont of time. 
 
