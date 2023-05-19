@@ -11,7 +11,7 @@ Collection of educational materials and project files prepared for my teaching d
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-**NOTE: files with the following extensions are stored via git-lfs.**
+**NOTE: files with the following extensions are stored via git-lfs, which cannot be downloaded directly with `git clone`.**
 - zip 
 - trr 
 - xtc 
@@ -19,6 +19,7 @@ Collection of educational materials and project files prepared for my teaching d
 - tgz 
 - gz
 
+Complete list of files stored on git-lfs can be found in [lfs-files.txt](https://github.com/molmdl/MD-zero/blob/main/lfs-files.txt)
 Please download them via web-version of GitHub or `git lfs` if you use the command line interface.
 
 ---

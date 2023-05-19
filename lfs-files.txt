@@ -1,0 +1,11 @@
+2020-FYP/homology-MD/lysozyme/t1/em.trr.gz
+2020-FYP/homology-MD/lysozyme/t1/md_0_1.xtc
+2020-FYP/homology-MD/lysozyme/t1/md_0_1_noPBC.xtc
+2020-FYP/homology-MD/lysozyme/t1/npt.trr.gz
+2020-FYP/homology-MD/lysozyme/t1/nvt.trr.gz
+2020-FYP/metalloprotein/zinc-finger/Mg_charmm-gui.tgz
+2020-FYP/metalloprotein/zinc-finger/charmm-gui.tgz
+2020-FYP/metalloprotein/zinc-finger/charmm-gui_empty.tgz
+2020-FYP/metalloprotein/zinc-finger/test.mp4
+2021-FYP/pde10_demo/pde10_demo_aug2021.mp4
+legacy/MD101_demo/charmm-gui.tgz
