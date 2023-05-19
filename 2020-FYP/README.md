@@ -8,4 +8,4 @@ Two students came from two different experimental groups (molecular/cell biologi
 
 PPT adjusted according to the lesson each supervisor would like to delivered to their students.
 
-An older version of MDportable with Gromacs 2019.4 was used in these projects. Part of the simulations used a CUDA-accerlated version of Gromacs on Windows/linux instead of the CPU-version provided in the package.
+An older version of MDportable with Gromacs 2019.4 was used in these projects. For some of the simulations, we used a CUDA-accerlated version of Gromacs on Windows/linux instead of the CPU-version provided in the package for a better performance.
