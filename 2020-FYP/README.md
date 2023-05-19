@@ -4,7 +4,7 @@ In 2020, I was in charge of 3 undergraduate students who worked on projects rela
 
 One student was under the supervision of my superviosor (computational chemist). The student worked on the metalloprotein 2-semester project.
 
-Two students came from two different experimental groups (molecular/cell biologist and structural biologist/crystallographer). They were interested in applying both experimental and computational techniques in their research, hence being referred here by their superviosors.
+Two students came from two different experimental groups (molecular/cell biologist and structural biologist/crystallographer). They were interested in applying both experimental and computational techniques in their research, hence being referred here by their supervisors.
 
 PPT adjusted according to the lesson each supervisor would like to delivered to their students.
 
