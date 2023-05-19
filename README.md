@@ -11,7 +11,7 @@ Collection of educational materials and project files prepared for my teaching d
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-**NOTE: files with the following extensions are stored via git-lfs, which cannot be downloaded directly with `git clone`.**
+**NOTE: files with the following extensions have been stored in git-lfs. They cannot be downloaded directly with `git clone`. Please download them via web-version of GitHub or `git lfs` if you use the command line interface.**
 - xtc 
 - trr
 - mp4 
@@ -19,7 +19,6 @@ Collection of educational materials and project files prepared for my teaching d
 - gz
 
 Complete list of files stored on git-lfs can be found in "[lfs-files.txt](https://github.com/molmdl/MD-zero/blob/main/lfs-files.txt)"
-Please download them via web-version of GitHub or `git lfs` if you use the command line interface.
 
 ---
 A 64-bit Windows-only "portable" package of [CPU Gromacs binary (Version 2019.6) bundled with several analysis tools](https://github.com/molmdl/MD-zero/releases/tag/MDportable_2021.09.30_fixed_release) can be found in "[Releases](https://github.com/molmdl/MD-zero/releases/)" for easy installation and usage. 
