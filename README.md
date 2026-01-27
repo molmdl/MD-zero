@@ -1,4 +1,7 @@
 # MD-zero
+
+(Remarks 2026: the SimplifyEval repository linked in 2022-training that contains double-click docking scripts and question-driven self-study materials is currently set to private for maintenance.)
+
 ## Description
 Collection of educational materials and project files prepared for my teaching duties since I have started learning to do molecular modelling, in particular molecular dynamics (MD) simulation. 
 
