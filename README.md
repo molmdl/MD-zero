@@ -23,7 +23,7 @@ A detailed description on MDportable bundle can be found in "[README_MDportable.
 
 ---
 ## Motivation
-Many students who lack computational background love double-clickers. Whenever they see an icon, they double-click it. If the double-click action does not open a new window, they lose 50% of their motivation. If they found that it is a command-line program, they lose 90% of their motivation. Part of the materials aimed to provide these students with a brief experience of what is molecular modelling and MD. Such simplified methods may not ideal for learning the technique in practice. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
+Targeting students who may panic when they need to use command-line. Part of the materials aimed to provide these students with a brief experience of what is molecular modelling and MD. Such simplified methods may not ideal for learning the technique in practice. Hence the name of "MD-zero" of the repository, it's not yet "MD-101" in terms of teaching. 
 
 ---
 ## Remarks
